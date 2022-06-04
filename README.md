@@ -1,0 +1,3 @@
+- learning to code
+- c, c++, c#, python
+- havent mastered any of those, im a self-thought programmer, i just know the basics
